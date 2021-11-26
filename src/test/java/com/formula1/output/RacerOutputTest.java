@@ -1,10 +1,11 @@
-package com.foxminded.formula1.output;
+package com.formula1.output;
 
 import java.io.IOException;
 import java.net.URISyntaxException;
 import java.text.ParseException;
-import com.foxminded.formula1.service.RacerDataReader;
-import com.foxminded.formula1.service.RacerFilesKeeper;
+
+import com.formula1.service.RacerDataReader;
+import com.formula1.service.RacerFilesKeeper;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 

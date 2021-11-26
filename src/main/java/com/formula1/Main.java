@@ -1,8 +1,9 @@
-package com.foxminded.formula1;
+package com.formula1;
 
-import com.foxminded.formula1.output.RacerOutput;
-import com.foxminded.formula1.service.RacerDataReader;
-import com.foxminded.formula1.service.RacerFilesKeeper;
+import com.formula1.output.RacerOutput;
+import com.formula1.service.RacerDataReader;
+import com.formula1.service.RacerFilesKeeper;
+
 import java.io.IOException;
 import java.text.ParseException;
 

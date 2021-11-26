@@ -1,6 +1,7 @@
-package com.foxminded.formula1.service;
+package com.formula1.service;
 
-import com.foxminded.formula1.Racer;
+import com.formula1.Racer;
+
 import java.io.IOException;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

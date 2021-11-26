@@ -1,4 +1,4 @@
-package com.foxminded.formula1;
+package com.formula1;
 
 public class Racer {
     private String abbreviation;

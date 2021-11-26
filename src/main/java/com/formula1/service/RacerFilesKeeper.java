@@ -1,4 +1,4 @@
-package com.foxminded.formula1.service;
+package com.formula1.service;
 
 import java.nio.file.Path;
 import java.nio.file.Paths;

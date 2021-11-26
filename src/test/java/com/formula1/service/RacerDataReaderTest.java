@@ -1,6 +1,6 @@
-package com.foxminded.formula1.service;
+package com.formula1.service;
 
-import com.foxminded.formula1.exception.InvalidFileDataException;
+import com.formula1.exception.InvalidFileDataException;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import java.io.IOException;

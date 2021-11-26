@@ -1,5 +1,5 @@
-package com.foxminded.formula1.service;
-import com.foxminded.formula1.exception.InvalidFileDataException;
+package com.formula1.service;
+import com.formula1.exception.InvalidFileDataException;
 
 import java.io.IOException;
 import java.nio.file.Files;
